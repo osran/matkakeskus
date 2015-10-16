@@ -1,0 +1,9 @@
+*.sw?
+*.class
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+.settings/
+.project

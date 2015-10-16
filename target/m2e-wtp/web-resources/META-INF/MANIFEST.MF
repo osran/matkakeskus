@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: oppi7
+Build-Jdk: 1.8.0_60
+Implementation-Title: Spring MVC Application
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: fi.agileo
+Implementation-Vendor: Pivotal Software, Inc.
+Created-By: Maven Integration for Eclipse
+
