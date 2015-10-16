@@ -10,7 +10,7 @@ public class AutomaattiTest {
 	@Test
 	public void testLaskeEtaisyys() {
 		Automaatti a = new Automaatti();
-		assertEquals(300, a.LaskeEtaisyys("Helsinki"));
+		assertEquals(3001, a.LaskeEtaisyys("Helsinki"));
 		assertEquals(400, a.LaskeEtaisyys("Turku"));
 		assertEquals(125, a.LaskeEtaisyys("Tampere"));
 		assertEquals(32, a.LaskeEtaisyys("Petäjävesi"));
